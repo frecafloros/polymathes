@@ -16,5 +16,8 @@ layout: default
 <section>
     <div class="container">
     	{{ content }}
+    	<div class="date">
+    		tago de publikigo: {{ page.date }}{% if page.update %} - lasta renovigo: {{ page.update }}{% endif %}
+    	</div>
     </div>
 </section>
