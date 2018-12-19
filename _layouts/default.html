@@ -6,13 +6,15 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/default.css" type="text/css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/boxstyle.css" type="text/css">
-	<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML.js"></script>
 	<script type="text/x-mathjax-config">
+	  MathJax.Ajax.config.path["Contrib"] = "https://cdn.mathjax.org/mathjax/contrib";
 	  MathJax.Hub.Config({
 		"HTML-CSS": { 
 			scale: 115,
 			matchFontHeight: false 
 		},
+		TeX: {extensions: ["AMSmath.js","AMSsymbols.js","[Contrib]/xyjax/xypic.js"]}
 	  });
 	</script>
 </head>
