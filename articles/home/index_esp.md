@@ -1,6 +1,7 @@
 ---
 layout: article_esp
-
+date: 2018
+update: 2019-02-18
 ---
 
 ## Lecionoj  
@@ -24,14 +25,22 @@ layout: article_esp
  1. [Egaleca rilato]
  1. [Orda rilato] 
    
-   
+ 
+- Teorio de grupoj
+ 1. [Grupo]  
+ 1. [Partgrupo]
+ 
+ 
 - Teorio de topologiaj spacoj  
  1. []
  
+ 
 - Teorio de kategorioj  
- 1. [Sagoj](../kategorioj/esp/01.html)  
+ 1. [Kategorioj kaj ecoj de sagoj](../kategorioj/esp/01.html)  
+ 1. [Egalformo]
   
   
+<!--
 ## Ĉitaĵoj
 ### Teorio de kategorioj
 - [圏論で考えよう (la japana)](https://www.youtube.com/watch?v=YzSAo-EvhfA&list=PL3J_mLcl4YCc-CsND9NwaHpKu3Ir-hsni)
@@ -40,3 +49,4 @@ layout: article_esp
 - [Category Theory for Programmers (la angla)](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [圏論勉強会 (la japana)](https://www.youtube.com/watch?v=uWST7UivqeM&list=PLewZs_yX3DZZFgx8xz76bnZnEqGOUPE9m)
 {:.citation}
+-->
