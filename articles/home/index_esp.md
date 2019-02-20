@@ -1,7 +1,7 @@
 ---
 layout: article_esp
-date: 2018
-update: 2019-02-18
+date: 2018-11-27
+update: 2019-02-21
 ---
 
 ## Lecionoj  
@@ -27,7 +27,7 @@ update: 2019-02-18
    
  
 - Teorio de grupoj
- 1. [Grupo]  
+ 1. [Grupo](../grupoj/esp/01.html)
  1. [Partgrupo]
  
  

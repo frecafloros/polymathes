@@ -96,3 +96,10 @@ footer {
 .citation {
 	font-size: 18px;
 }
+
+/* original box */
+
+.indentbox {
+	display: block;
+	margin-left: 15px;
+}
